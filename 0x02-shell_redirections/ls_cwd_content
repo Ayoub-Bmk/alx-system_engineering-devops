@@ -1,1 +1,15 @@
-ls -la
+total 88
+drwxr-xr-x  14 ayoub-bmk  staff  448 Mar 13 23:05 .
+drwxr-xr-x   6 ayoub-bmk  staff  192 Mar 13 21:24 ..
+-rwxr-xr-x   1 ayoub-bmk  staff   32 Mar 13 21:37 0-hello_world
+-rwxr-xr-x   1 ayoub-bmk  staff   28 Mar 13 21:46 1-confused_smiley
+-rwxr-xr-x   1 ayoub-bmk  staff   28 Mar 13 22:15 2-hellofile
+-rwxr-xr-x   1 ayoub-bmk  staff   39 Mar 13 22:22 3-twofiles
+-rwxr-xr-x   1 ayoub-bmk  staff   35 Mar 13 22:29 4-lastlines
+-rwxr-xr-x   1 ayoub-bmk  staff   35 Mar 13 22:35 5-firstlines
+-rwxr-xr-x   1 ayoub-bmk  staff   48 Mar 13 22:40 6-third_line
+-rwxr-xr-x   1 ayoub-bmk  staff  100 Mar 13 22:55 7-file
+-rwxr-xr-x   1 ayoub-bmk  staff   36 Mar 13 23:05 8-cwd_state
+-rw-r--r--   1 ayoub-bmk  staff  320 Mar 13 21:34 README.md
+-rw-r--r--   1 ayoub-bmk  staff   12 Mar 13 22:56 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r--   1 ayoub-bmk  staff    0 Mar 13 23:05 ls_cwd_content
